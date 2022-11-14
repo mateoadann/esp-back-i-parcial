@@ -11,4 +11,4 @@ spring:
           uri: https://github.com/mateoadann/esp-back-i-parcial
           default-label: develop
           force-pull: true
-          search-paths: configs
+          search-paths: configData
